@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="digital_background1">@color/primary</color>
+    <color name="digital_text">#ffffff</color>
+    <color name="primary">#03A9F4</color>  <!-- 500 -->
+    <color name="primary_light">#B3E5FC</color> <!-- 100 -->
+    <color name="accent">#FFD740</color>
+    <color name="digital_background0">#ac1d10</color>
+    <color name="digital_background2">#288b5e</color>
+    <color name="digital_background3">#ea5b1f</color>
+    <color name="digital_background4">#ff0682</color>
+    <color name="digital_background5">#4ebf64</color>
+    <color name="digital_background6">#4e7283</color>
+
+</resources>

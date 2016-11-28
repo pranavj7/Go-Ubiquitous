@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\pinkzz\\Desktop\\go-ubiquitous\\wearable\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_drawer_item_view.xml",
+        "source": "C:\\Users\\pinkzz\\Desktop\\go-ubiquitous\\wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha1\\res\\layout\\navigation_drawer_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\pinkzz\\Desktop\\go-ubiquitous\\wearable\\build\\intermediates\\res\\merged\\debug\\layout\\overlay_confirmation.xml",
+        "source": "C:\\Users\\pinkzz\\Desktop\\go-ubiquitous\\wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha1\\res\\layout\\overlay_confirmation.xml"
+    },
+    {
+        "merged": "C:\\Users\\pinkzz\\Desktop\\go-ubiquitous\\wearable\\build\\intermediates\\res\\merged\\debug\\layout\\action_drawer_item_view.xml",
+        "source": "C:\\Users\\pinkzz\\Desktop\\go-ubiquitous\\wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha1\\res\\layout\\action_drawer_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\pinkzz\\Desktop\\go-ubiquitous\\wearable\\build\\intermediates\\res\\merged\\debug\\layout\\wearable_drawer_view.xml",
+        "source": "C:\\Users\\pinkzz\\Desktop\\go-ubiquitous\\wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha1\\res\\layout\\wearable_drawer_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\pinkzz\\Desktop\\go-ubiquitous\\wearable\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_wearable.xml",
+        "source": "C:\\Users\\pinkzz\\Desktop\\go-ubiquitous\\wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha1\\res\\layout\\alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "C:\\Users\\pinkzz\\Desktop\\go-ubiquitous\\wearable\\build\\intermediates\\res\\merged\\debug\\layout\\error_layout.xml",
+        "source": "C:\\Users\\pinkzz\\Desktop\\go-ubiquitous\\wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0-alpha1\\res\\layout\\error_layout.xml"
+    }
+]
