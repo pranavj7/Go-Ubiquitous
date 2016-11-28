@@ -439,9 +439,9 @@ public class WatchFace extends CanvasWatchFaceService {
                         @Override
                         public void onResult(DataApi.DataItemResult dataItemResult) {
                             if (!dataItemResult.getStatus().isSuccess()) {
-                                Log.d(TAG, "Trigger failed for weather data");
+                                Log.d(TAG, "weather data unsuccessful");
                             } else {
-                                Log.d(TAG, "Trigger success for weather data");
+                                Log.d(TAG, "weather data success");
                             }
                         }
                     });
