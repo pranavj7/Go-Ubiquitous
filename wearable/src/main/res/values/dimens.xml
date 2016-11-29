@@ -7,11 +7,11 @@
     <dimen name="temp_size">20dp</dimen>
     <dimen name="temp_size_round">20dp</dimen>
 
-    <dimen name="time_y_offset">90dp</dimen>
-    <dimen name="date_y_offset">110dp</dimen>
+    <dimen name="time_y_offset">80dp</dimen>
+    <dimen name="date_y_offset">100dp</dimen>
     <dimen name="date_y_offset_round">120dp</dimen>
-    <dimen name="divider_y_offset">125dp</dimen>
+    <dimen name="divider_y_offset">115dp</dimen>
     <dimen name="divider_y_offset_round">135dp</dimen>
-    <dimen name="weather_y_offset">160dp</dimen>
+    <dimen name="weather_y_offset">140dp</dimen>
     <dimen name="weather_y_offset_round">170dp</dimen>
 </resources>
